@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.islami.app-mergeDebugResources-24:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "D:\\Flutter\\Projects\\Assignments\\Islami\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "from": {
+                        "startLines": "3,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,1225",
+                        "endLines": "12,21",
+                        "endColumns": "12,12",
+                        "endOffsets": "874,1389"
+                    },
+                    "to": {
+                        "startLines": "2,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,761",
+                        "endLines": "11,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "756,925"
+                    }
+                }
+            ]
+        }
+    ]
+}
