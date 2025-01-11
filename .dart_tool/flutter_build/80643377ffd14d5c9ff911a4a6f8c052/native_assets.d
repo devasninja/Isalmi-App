@@ -1,0 +1,1 @@
+ D:\\Flutter\\Projects\\Assignments\\Isalmi-App\\.dart_tool\\flutter_build\\80643377ffd14d5c9ff911a4a6f8c052\\native_assets.yaml: 

@@ -4,14 +4,14 @@
             "outputFile": "com.example.islami.app-mergeDebugResources-24:/values-v31/values-v31.xml",
             "map": [
                 {
-                    "source": "D:\\Flutter\\Projects\\Assignments\\Islami\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "source": "D:\\Flutter\\Projects\\Assignments\\Isalmi-App\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
                     "from": {
                         "startLines": "3,19",
                         "startColumns": "4,4",
-                        "startOffsets": "173,1225",
+                        "startOffsets": "176,1244",
                         "endLines": "12,21",
                         "endColumns": "12,12",
-                        "endOffsets": "874,1389"
+                        "endOffsets": "886,1410"
                     },
                     "to": {
                         "startLines": "2,12",
